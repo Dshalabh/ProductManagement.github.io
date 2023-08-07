@@ -1,8 +1,7 @@
-# h1 Heading
-## h2 Heading
+# h1 Product Management 
+## h2 Product Strategies
 
 ## Horizontal Rule
-
 _____
 
 ## Emphasis
