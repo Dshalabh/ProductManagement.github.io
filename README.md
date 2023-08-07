@@ -1,4 +1,4 @@
-# Shalabh.ProductManagement.github.io
+# ProductManagement.github.io
 ## h2 Heading
 ###h3 Heading
 
