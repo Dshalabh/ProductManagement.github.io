@@ -11,6 +11,6 @@ __This is bold text__
 
 ## Image
 
-![Minion] (https://octodex.github.com/images/minion.png)
+![Minion] (https://octodex.github.com/filmtocats/)
 
 ## The End
