@@ -1,16 +1,4 @@
-# ProductManagement.github.io
+# h1 Heading
 ## h2 Heading
 
 ## Horizontal Rule
-__
-
-## Emphasis
-
-**This is bold text**
-
-__This is bold text__
-
-## Images
-
-
-## The End
